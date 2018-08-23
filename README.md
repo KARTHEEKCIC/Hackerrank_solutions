@@ -30,13 +30,8 @@ Solutions are coded using C++
 |  4  | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day4/Geometric%20Distribution%20I/solution.cpp)                    |
 |  4  | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2)                            |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day4/Geometric%20Distribution%20II/solution.cpp)                   |
 |  5  | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1)                                 |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Poisson%20Distribution%20I/
-solution.cpp)                      |
-|  5  | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2)                                |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Poisson%20Distribution%20II/solution.cpp)                     |
-|  5  | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1)                                   |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Normal%20Distribution%20I/
-solution.cpp)                       |
-|  5  | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2)                                  |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Normal%20Distribution%20II/
-solution.cpp)                      |
-   
+solution.cpp)                   |
+
 
 
 # Algorithms
