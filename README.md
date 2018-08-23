@@ -14,8 +14,7 @@ Solutions are coded using C++
 
 | Day |                                                          Challenge                                                         | Points |                                                                                          Solution                                                                                         |
 |:---:|:--------------------------------------------------------------------------------------------------------------------------:|:------:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|  0  | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics)                                       |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/
-10_days_of_stats/Day0/%20Mean%20Median%20Mode/solution.cpp)                |
+|  0  | [Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics)                                       |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day0/%20Mean%20Median%20Mode/solution.cpp) |
 |  0  | [Weighted Mean](https://www.hackerrank.com/challenges/s10-weighted-mean)                                                   |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day0/Weighted%20Mean/
 solution.cpp)                                 |
 |  1  | [Quartiles](https://www.hackerrank.com/challenges/s10-quartiles)                                                           |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day1/Quartile/solution.cpp)                                       |
