@@ -30,6 +30,23 @@ Solutions are coded using C++
 |  4  | [Geometric Distribution I](https://www.hackerrank.com/challenges/s10-geometric-distribution-1)                             |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day4/Geometric%20Distribution%20I/solution.cpp)                    |
 |  4  | [Geometric Distribution II](https://www.hackerrank.com/challenges/s10-geometric-distribution-2)                            |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day4/Geometric%20Distribution%20II/solution.cpp)                   |
 |  5  | [Poisson Distribution I](https://www.hackerrank.com/challenges/s10-poisson-distribution-1)                                 |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Poisson%20Distribution%20I/solution.cpp)                      |
+|  5  | [Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2)                                |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Poisson%20Distribution%20II/solution.cpp)                     |
+|  5  | [Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1)                                   |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Normal%20Distribution%20I/
+solution.cpp)                       |
+|  5  | [Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2)                                  |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day5/Normal%20Distribution%20II/
+solution.cpp)                      |
+|  6  | [The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1)                       |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day6/
+The%20Central%20Limit%20Theorem%20I/solution.cpp)             |
+|  6  | [The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2)                      |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day6/
+The%20Central%20Limit%20Theorem%20II/solution.cpp)            |
+|  6  | [The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3)                     |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day6/
+The%20Central%20Limit%20Theorem%20III/solution.cpp)           |
+|  7  | [Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient)             |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day7/
+Pearson%20Correlation%20Coefficient%20I/solution.cpp)         |
+|  7  | [Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient) |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day7/Spearman's%20Rank%20Correlation%20Coefficient/solution.cpp) |
+|  8  | [Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line)                     |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day8/Least%20Square%20Regression%20Line/solution.cpp)              |
+|  8  | [Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7)                                      |   30   | [Solution](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day8/Pearson%20Correlation%20Coefficient%20II/solution.txt)              |
+|  9  | [Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression)                         |   30   | [Solution.cpp](https://github.com/KARTHEEKCIC/Hackerrank_solutions/blob/master/10_days_of_stats/Day9/Multiple%20Linear%20Regression/solution.cpp)                  |
 
 
 # Algorithms
