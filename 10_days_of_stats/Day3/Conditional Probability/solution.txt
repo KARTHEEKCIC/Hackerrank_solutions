@@ -1,0 +1,17 @@
+Objective 
+In this challenge, we get started with conditional probability. Check out the Tutorial tab for learning materials! 
+
+
+Task 
+Suppose a family has 2 children, one of which is a boy. What is the probability that both children are boys?
+
+
+Solution
+So the sample space is  {BB,GB,BG,GG} where B - Boy and G - Girl.
+
+So the probability that both children are boys given that one of them is boy, P = Probability that both of them are boys / Probability that one of them is boy
+
+Probability that both of them are boys = 1/4
+Probability that one them is boy = 3/4
+
+Therefore the probability P = (1/4)/(3/4) = 1/3

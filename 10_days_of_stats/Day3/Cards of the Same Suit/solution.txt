@@ -1,0 +1,16 @@
+Objective 
+In this challenge, we're getting started with combinations and permutations. Check out the Tutorial tab for learning materials! 
+
+
+Task 
+You draw 2 cards from a standard 52-card deck without replacing them. What is the probability that both cards are of the same suit?
+
+
+Solution
+Let a person draw a card from the deck. Now we need to find the probability that the next card drawn is from the same suit such that the previous card is not replaced.
+
+So, Total number of cards left in the deck = 52 (Size of the sample space)
+
+Total number of cards of the same suit as that of previous one that are left in the deck = 12
+
+Therefore, the probability that both cards are of the same suit = probability the second card drawn is from the same suit as previous one = 12/52.

@@ -1,0 +1,26 @@
+Objective
+The regression line of y on x is 3x+4y+8=0, and the regression line of x on y is 4x+3y+7=0. What is the value of the Pearson correlation coefficient?
+
+Solution
+
+1. 3x+4y+8=0 (y on x)
+2. 4x+3y+7=0 (x on y)
+
+Rewriting the above equations - 
+1. y=-3x/4-2
+2. x=-3y/4-7/4
+
+So, slope b1, b2 are -3/4 and -3/4 respectively for 1 and 2.
+
+From least square method b1 = pearson's coeff(p) * std_y/std_x
+			 b2 = pearson's coeff(p) * std_x/std_y
+
+So, -3/4 = p * std_y/std_x  --- 3
+    -3.4 = p * std_x/std_y  --- 4
+
+Multiplying 3 and 4,
+	we get p^2 = 9/16
+
+So as both slopes are negative, so the correlation coefficient will be negative which p =-3/4.
+
+
