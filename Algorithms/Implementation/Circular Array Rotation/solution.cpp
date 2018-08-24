@@ -1,0 +1,60 @@
+/**
+    @Author B Kartheek Reddy
+    @Hackerrank hackerrank.com/KARTHEEK04
+ **/
+
+#include <map>
+#include <set>
+#include <list>
+#include <cmath>
+#include <ctime>
+#include <deque>
+#include <queue>
+#include <stack>
+#include <string>
+#include <bitset>
+#include <cstdio>
+#include <limits>
+#include <vector>
+#include <climits>
+#include <cstring>
+#include <cstdlib>
+#include <fstream>
+#include <numeric>
+#include <sstream>
+#include <iostream>
+#include <algorithm>
+#include <unordered_map>
+
+using namespace std;
+
+
+int main(){
+    int n;
+    int k;
+    int q;
+    cin >> n >> k >> q;
+    vector<int> a(n);
+    for(int a_i = 0;a_i < n;a_i++){
+       cin >> a[a_i];
+    }
+    int b[q];
+    for(int a0 = 0; a0 < q; a0++){
+        cin >> b[a0];
+    }
+    for(int l=0;l<q;l++)
+    { if(b[l]-k>=0) 
+      cout<<a[b[l]-k]<<endl;
+     else if((n+(b[l]-k))<0)
+          { int m=k%n;
+            if(b[l]-m>=0)
+              cout<<a[b[l]-m]<<endl;
+            else
+              cout<<a[n+(b[l]-m)]<<endl;
+          }
+          else
+            cout<<a[n+(b[l]-k)]<<endl;
+    }
+    return 0;
+}
+
